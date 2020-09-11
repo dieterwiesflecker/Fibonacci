@@ -95,7 +95,7 @@ namespace Fibonacci
                     int n = temp + temp1;
                     yield return n;
                     temp = temp1;
-                    temp1 = n;
+                    temp1 = n; 
                 }
             }
         }
