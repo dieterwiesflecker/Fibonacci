@@ -80,6 +80,9 @@ namespace Fibonacci
 
     }
 
+    /// <summary>
+    /// math lib
+    /// </summary>
     public static class Math
     {
         public static IEnumerable<int> Fibonacci(int length)
